@@ -53,7 +53,7 @@ __Διάρκεια περίπου 1 ώρα με διαλείμματα__
 
 ## Ακολουθεί ένα μικρό βίντεο επίδειξης των δραστηριοτήτων:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_FrOQC-zEog/0.jpg)](https://www.youtube.com/watch?v=_FrOQC-zEog)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1bOKgc8KQgw/0.jpg)](https://www.youtube.com/watch?v=1bOKgc8KQgw)
 
  Ξεκινήστε το 1ο μέρος της πειραματικής δραστηριότητας ακολουθώντας τον παρακάτω σύνδεσμο. __Προσοχή__ πρέπει να το ανοίξετε σε ηλεκτρονικό υπολογιστή χρησιμοποιώντας Google Chrome, Mozilla Firefox ή Internet Explorer.
 
