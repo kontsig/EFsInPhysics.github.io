@@ -52,6 +52,7 @@ __Διάρκεια περίπου 1 ώρα με διαλείμματα__
 
 <img src="https://user-images.githubusercontent.com/95580413/145673227-7660519f-1817-4e7f-9b6d-ab219f033b63.png" width="700" align="center">
 
+
 ## Ακολουθεί ένα μικρό βίντεο επίδειξης των δραστηριοτήτων:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1bOKgc8KQgw/0.jpg)](https://www.youtube.com/watch?v=1bOKgc8KQgw)
