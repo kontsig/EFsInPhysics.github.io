@@ -29,7 +29,7 @@ __Στόχος:__ Να κατασκευαστεί μια πρωτοποριακ�
 
 # Αν σας ενδιαφέρει να βοηθήσετε στην παραγωγή νέας γνώσης τότε είστε ένα βήμα μακριά!
 
-## Σας παρακαλούμε να παραδώσετε σε εμάς ή στο σχολείο σας υπογεγραμμένη αυτή την [φόρμα συγκατάθεσης](https://docs.google.com/document/d/e/2PACX-1vSwVIjNTCvrR_iMp5-j7AqbUPVXa1EQgaZks5veNhbUpAEmSa904WAZ767szFZirutVTmOq-q3YJa9U/pub) από κάποιον γονέα. Αν οι συνθήκες δε το επιτρέπουν, μπορείτε ενναλακτικά να την αποστείλετε ηλεκτρονικά στη διεύθυνση [kt478@cam.ac.uk](kt478@cam.ac.uk) αφού πρώτα υπογραφεί από γονέα.
+## Σας παρακαλούμε να παραδώσετε σε εμάς ή στο σχολείο σας υπογεγραμμένη αυτή την [φόρμα συγκατάθεσης](https://docs.google.com/document/d/e/2PACX-1vSwVIjNTCvrR_iMp5-j7AqbUPVXa1EQgaZks5veNhbUpAEmSa904WAZ767szFZirutVTmOq-q3YJa9U/pub) από κάποιον γονέα. Αν οι συνθήκες δε το επιτρέπουν, μπορείτε ενναλακτικά να την αποστείλετε ηλεκτρονικά στη διεύθυνση [kt478@cam.ac.uk](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCJFGLmCfpDJNJVgqkmBzxtfXKPpxMzsszNcWcNNnVNGBpZZkCWSqWSpmxDLxmmhrVGJwg) αφού πρώτα υπογραφεί από γονέα.
 ## [φόρμα συγκατάθεσης](https://docs.google.com/document/d/e/2PACX-1vSwVIjNTCvrR_iMp5-j7AqbUPVXa1EQgaZks5veNhbUpAEmSa904WAZ767szFZirutVTmOq-q3YJa9U/pub)
 
 # Πειραματικό Μέρος
